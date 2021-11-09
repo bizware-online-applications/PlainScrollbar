@@ -14,7 +14,7 @@
  * @param {object} customConfiguration
  * @constructor
  */
-function PlainScrollbar(customConfiguration) {
+export function PlainScrollbar(customConfiguration) {
 
 	'use strict';
 
